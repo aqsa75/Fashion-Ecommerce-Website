@@ -11,5 +11,10 @@ Dedicated contact page for customer inquiries and feedback.
 Blog page featuring articles on modest fashion trailblazers.
 
 file specifications:
-    index.html: this is the file with all of the code for the homepage and will include integrations with other files for each page I specified above.
-    styles.css: this is the file that has all of the stylistic renderings for the index.html page. 
+  -  index.html: this is the file with all of the code for the homepage and will include integrations with other files for each page I specified above.
+  -  styles.css: this is the file that has all of the stylistic renderings for the index.html page.
+  -  about.html: this is the file with all of the code for the about page
+  -  cart.html: file with all of the code for the cart page of website
+  -  product.html: file with all of the code to display my products to customers
+  -  sproduct.html: file that takes the user to a specific product to see all of the details of
+  -  
